@@ -30,3 +30,6 @@ I enjoy building games that feel smooth, responsive, and well-structured, with a
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/kateryna-rashkovska-gamedeveloper
 - Email: k.rashkovska@gmail.com
+
+## 🎮 My Games
+- Itch.io: https://katrin-ra.itch.io/
