@@ -5,13 +5,9 @@ I enjoy building games that feel smooth, responsive, and well-structured, with a
 
 ## 🎮 What am I currently working on?
 ### 🍳 Cooking Simulator - Limbo Kitchen (Unity)
-- I'm a Lead Programmer and Team Leader
+- I'm a Lead Programmer
 - Developing most core gameplay systems and mechanics
-- Coordinating the development process and team workflow
-### 🥽 VR Game (Unity)
-- I'm the sole programmer and Team Leader
-- Developing all core gameplay systems and mechanics
-- Responsible for overall game structure and implementation
+- Working on game architecture and internal tools
 
 ## 🛠 What are my skills?
 - Engines: Unity, Unreal Engine  
