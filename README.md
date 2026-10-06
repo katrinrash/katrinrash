@@ -9,9 +9,14 @@ I enjoy building games that feel smooth, responsive, and well-structured, with a
 - Developing most core gameplay systems and mechanics
 - Working on game architecture and internal tools
 
+### 📱 Mobile Multiplayer Game (Unity)
+- I'm the Sole Programmer
+- Developing core gameplay and multiplayer mechanics
+- Designing game architecture and networked systems
+
 ## 🛠 What are my skills?
 - Engines: Unity, Unreal Engine  
-- Programming: C#  
+- Programming: C#, C++, Blueprints  
 - Version Control: Git, GitHub, GitLab, GitKraken  
 - Project Management: Jira, Trello, Notion, ClickUp, Miro, Mural  
 - Tools & Middleware: FMOD, Figma  
